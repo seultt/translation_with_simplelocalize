@@ -1,0 +1,2 @@
+# translation_with_simplelocalize
+Translation test with simpleLocalize
